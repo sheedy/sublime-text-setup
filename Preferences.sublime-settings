@@ -1,0 +1,41 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"custom_config_path": "~/Sites/csscomb.json",
+	"default_encoding": "UTF-8",
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".pygments-cache"
+	],
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": false
+}
