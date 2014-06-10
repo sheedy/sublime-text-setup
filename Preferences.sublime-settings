@@ -1,10 +1,18 @@
 {
+	"additional_path_items":
+	[
+		"~/bin"
+	],
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": false,
 	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"custom_config_path": "~/Sites/csscomb.json",
 	"default_encoding": "UTF-8",
+	"detect_indentation": false,
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
@@ -22,21 +30,32 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Colorcoder"
+		"TernJS",
+		"Markdown"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
 	"rulers":
 	[
-		80
+		100
 	],
 	"save_on_focus_lost": true,
 	"tab_completion": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
+	"wide_caret": true,
 	"word_wrap": false
 }
