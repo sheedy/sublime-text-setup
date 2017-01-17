@@ -1,0 +1,14 @@
+{
+    "tern_argument_hints": true,
+    "tern_argument_hints_type": "tooltip",
+    "tern_argument_completion": true,
+    "auto_complete_triggers": [
+      {
+        "selector": "text.html",
+        "characters": "<"
+      }, {
+        "selector": "source.js",
+        "characters": "."
+      }
+    ]
+}

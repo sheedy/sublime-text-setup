@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"mmd"
+		"jsx",
+		"js"
 	]
 }

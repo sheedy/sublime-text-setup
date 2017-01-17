@@ -1,8 +1,9 @@
 {
 	"user":
 	{
+		"@disable": true,
 		"debug": true,
-		"delay": 0.25,
+		"delay": 1.25,
 		"error_color": "D02000",
 		"gutter_theme": "Packages/User/gutter-themes/sheedy/sheedy.gutter-theme",
 		"gutter_theme_excludes":
@@ -11,6 +12,39 @@
 		"lint_mode": "background",
 		"linters":
 		{
+			"apiblueprint":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"csslint":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"errors": "",
+				"excludes":
+				[
+				],
+				"ignore": "",
+				"warnings": ""
+			},
+			"eslint":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"htmltidy":
 			{
 				"@disable": true,
@@ -21,11 +55,38 @@
 				[
 				]
 			},
-			"scss":
+			"jscs":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
+					"--config",
+					"${home}/dev/.jscsrc"
+				],
+				"exclude-linter": "",
+				"excludes":
+				[
+				]
+			},
+			"json":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"exclude-linter": "",
+				"excludes":
+				[
+				],
+				"strict": false
+			},
+			"scss":
+			{
+				"@disable": true,
+				"args":
+				[
+					"--config",
+					"${home}/dev/.scss-lint.yml"
 				],
 				"exclude-linter": "",
 				"excludes":
@@ -36,6 +97,7 @@
 		},
 		"mark_style": "outline",
 		"no_column_highlights_line": false,
+		"passive_warnings": false,
 		"paths":
 		{
 			"linux":
@@ -61,9 +123,9 @@
 			]
 		},
 		"rc_search_limit": 3,
-		"shell_timeout": 10,
+		"shell_timeout": 20,
 		"show_errors_on_save": false,
-		"show_marks_in_minimap": true,
+		"show_marks_in_minimap": false,
 		"syntax_map":
 		{
 			"SCSS": "scss",
@@ -71,6 +133,7 @@
 			"html (django)": "html",
 			"html (rails)": "html",
 			"html 5": "html",
+			"javascript (babel)": "javascript",
 			"php": "html",
 			"python django": "python"
 		},

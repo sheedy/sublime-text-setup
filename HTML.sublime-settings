@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"mmd"
+		"htm",
+		"html"
 	]
 }

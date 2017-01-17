@@ -1,7 +1,17 @@
 {
+	"apply_syntax_extensions":
+	[
+		"sh",
+		"bash",
+		"zsh"
+	],
 	"extensions":
 	[
+		"sh",
+		"COMMIT_EDITMSG",
+		"bash",
+		"zsh",
 		".path",
-		"COMMIT_EDITMSG"
+		"orig"
 	]
 }

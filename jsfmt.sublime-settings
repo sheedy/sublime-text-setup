@@ -1,0 +1,25 @@
+{
+  "alert-errors": true,
+  "autoformat": false,
+  "extensions": [
+    "js",
+    "sublime-settings"
+  ],
+  "ignore-selection": false,
+  "node-path": "node",
+  "options": {
+    "indent": {
+      "value": "    "
+    },
+    "plugins": [],
+    "preset": "jquery"
+  },
+  "options-JSON": {
+    "plugins": [
+      "esformatter-quotes"
+    ],
+    "quotes": {
+      "type": "double"
+    }
+  }
+}
