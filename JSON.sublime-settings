@@ -1,7 +1,7 @@
 {
-	"extensions":
-	[
-		".esformatter",
-		".jsbeautifyrc"
-	]
+  "extensions":
+  [
+    ".esformatter",
+    ".jsbeautifyrc"
+  ]
 }

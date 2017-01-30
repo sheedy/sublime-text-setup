@@ -9,7 +9,7 @@
   "node-path": "node",
   "options": {
     "indent": {
-      "value": "    "
+      "value": "  "
     },
     "plugins": [],
     "preset": "jquery"

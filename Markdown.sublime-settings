@@ -1,44 +1,44 @@
 {
-	"auto_match_enabled": true,
-	"caret_extra_bottom": 3,
-	"caret_extra_top": 3,
-	"caret_extra_width": 3,
-	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-	"draw_centered": true,
-	"extensions":
-	[
-		"md",
-		"mdown",
-		"txt",
-		"md"
-	],
-	"gutter": true,
-	"highlight_line": false,
-	"line_numbers": false,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"margin": 10,
-	"mde.distraction_free_mode":
-	{
-		"mde.keep_centered": true
-	},
-	"mde.keep_centered": false,
-	"mde.list_indent_auto_switch_bullet": true,
-	"mde.list_indent_bullets":
-	[
-		"*",
-		"-",
-		"+"
-	],
-	"mde.match_header_hashes": false,
-	"rulers":
-	[
-	],
-	"speall_check": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": false,
-	"word_wrap": true,
-	"wrap_width": 80
+  "auto_match_enabled": true,
+  "caret_extra_bottom": 3,
+  "caret_extra_top": 3,
+  "caret_extra_width": 3,
+  "caret_style": "solid",
+  "color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+  "draw_centered": true,
+  "extensions":
+  [
+    "md",
+    "mdown",
+    "txt",
+    "md"
+  ],
+  "gutter": true,
+  "highlight_line": false,
+  "line_numbers": false,
+  "line_padding_bottom": 2,
+  "line_padding_top": 2,
+  "margin": 10,
+  "mde.distraction_free_mode":
+  {
+    "mde.keep_centered": true
+  },
+  "mde.keep_centered": false,
+  "mde.list_indent_auto_switch_bullet": true,
+  "mde.list_indent_bullets":
+  [
+    "*",
+    "-",
+    "+"
+  ],
+  "mde.match_header_hashes": false,
+  "rulers":
+  [
+  ],
+  "speall_check": true,
+  "tab_size": 4,
+  "translate_tabs_to_spaces": false,
+  "trim_trailing_white_space_on_save": false,
+  "word_wrap": true,
+  "wrap_width": 80
 }
