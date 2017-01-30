@@ -9,3 +9,5 @@ Package Control.ca-certs/
 /ChangeList*
 *.cache
 Gist.sublime-settings
+*.crt
+*.merged-ca-bundle
