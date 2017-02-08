@@ -20,7 +20,7 @@
   "config_path": "/Users/mick/dev/.jscsrc",
 
   // Automatically format when a file is saved.
-  "format_on_save": false,
+  "format_on_save": true,
 
   "format_on_save_extensions": [
     "js",

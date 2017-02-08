@@ -47,11 +47,12 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"jsfmt",
 		"Vintage"
 	],
 	"indent_guide_options":
