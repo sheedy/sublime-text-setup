@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Abacus",
 		"Additional PHP Snippets",
 		"AdvancedNewFile",
@@ -78,6 +79,8 @@
 		"Liquid",
 		"MarkdownEditing",
 		"Marking Changed Rows",
+		"Material Theme",
+		"Materialize-White-Panels",
 		"nginx",
 		"Oceanic Next Color Scheme",
 		"Open Finder",
