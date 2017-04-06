@@ -35,3 +35,16 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 rm -r User
 ln -s ~/Dropbox/Sublime/User
 ```
+
+## Settings
+
+The most important settings are in the following files:
+
+- `/Users/mick/Dropbox/Apps/Sublime3/User/SublimeLinter.sublime-settings`
+- `/Users/mick/Dropbox/Apps/Sublime3/User/EsFormatter.sublime-settings`
+- `/Users/mick/Dropbox/Apps/Sublime3/User/Markdown.sublime-settings`
+- `/Users/mick/Dropbox/Apps/Sublime3/User/JsFormat.sublime-settings`
+- `/Users/mick/Dropbox/Apps/Sublime3/User/jsfmt.sublime-settings`
+- `/Users/mick/Dropbox/Apps/Sublime3/User/JSON.sublime-settings`
+- `/Users/mick/Dropbox/Apps/Sublime3/User/JSCS-Formatter.sublime-settings`
+- `/Users/mick/dev/.jscsrc`
